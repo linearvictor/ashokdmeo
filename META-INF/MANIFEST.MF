@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: springmvc
+Bundle-SymbolicName: springmvc
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: springmvc
+Export-Package: springmvc.controller,
+ springmvc.dao,
+ springmvc.model,
+ springmvc.service
